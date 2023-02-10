@@ -112,5 +112,4 @@ class HBNBCommand(cmd.Cmd):
                 tmp_dict[key].save()
 
 if __name__ == '__main__'
-    HBNBCommand().cmdloop()
-            
+    HBNBCommand().cmdloop()  
